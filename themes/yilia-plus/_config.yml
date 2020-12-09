@@ -67,9 +67,9 @@ reward_type: 2
 # 打赏wording
 reward_wording: '(*´∇｀*) 感谢金克斯的一发火箭~老板大气！！！ '
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
-alipay: /img/zfb.jpg
+alipay: /img/zfb.jpg?v=1
 # 微信二维码图片地址
-weixin: /img/wechat.jpg
+weixin: /img/wechat.jpg?v=1
 
 # 目录
 # 目录设定：0-不显示目录； 1-文章对应的md文件里有toc:true属性，才有目录； 2-所有文章均显示目录
@@ -114,8 +114,8 @@ gitment_owner: bryant4870      #你的 GitHub ID
 gitment_remote: false
 gitment_repo: 'bryant4870.github.io'          #存储评论的 repo name(需要在Github创建)
 gitment_oauth:
-  client_id: '8c6f6c85056361968669'           #client ID
-  client_secret: '1a42a3423356d9eddff3f05d25d9d26a4b98b8dd'       #client secret
+  client_id: '402aaf13a29b0e55b7df'           #client ID
+  client_secret: 'd19653d5ec5a82e512c2cadfbeb8fa8d9d17c116'       #client secret
 
 # 4、Giteement----【国内用户建议使用这个，相对比较快】
 # 关于如何集成:https://www.jianshu.com/p/f5c4633524c7
@@ -246,7 +246,7 @@ style:
     # 是否启用左侧边栏动态图效果
     enable: true
     # 自定义背景图路径(默认可以不设置，提供默认背景图)
-    # path: /img/biubiubiu.gif
+    path: /img/timg.jpg
   # 右滑板块背景
   slider: 'linear-gradient(200deg,#a0cfe4,#e8c37e)'
 
